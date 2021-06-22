@@ -1,5 +1,9 @@
-#  Udemy
-> Esse repository contém o roteiro de estudos e material desenvolvido no curso _React Js do zero ao avançado na pratica_
+#  Rocketseat · Evolua rápido como a tecnologia.
+> Esse repository contém o roteiro de estudos e material desenvolvido no curso _NLW Together_. 
+
+> _Juntos para o próximo nível_.
+
+> Um evento para dar o próximo passo na sua evolução como programadora ou programador.
 
 ### React Js do zero ao avançado na pratica
 #### Conteúdo Programático;
