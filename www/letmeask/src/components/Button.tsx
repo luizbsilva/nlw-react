@@ -1,17 +1,13 @@
-import { useState } from "react";
+import {ButtonHTMLAttributes} from 'react';
 
-export function Button(){
-    const [counter, setCounter] = useState(0)
+import '../styles/button.scss';
 
-    function increment(){
+type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement>
 
-        setCounter( counter+ 1);
-        console.log(counter)
-    }
-
+export function Button(props: ButtonProps){
     return (
-        <button onClick={increment}>
-            {counter}
+        <button className="button" {...props}>
+         
         </button>
     )
 }
