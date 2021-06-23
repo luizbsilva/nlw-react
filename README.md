@@ -9,8 +9,8 @@
 #### Conteúdo Programático;
     - [✔] 20 jun / Domingo;
         ✔ Aula 01 – Liftoff;
-    - [ ] 21 jun / Segunda;
-        - Aula 02 – Maximum Speed;
+    - [✔] 21 jun / Segunda;
+        ✔ Aula 02 – Maximum Speed;
     - [ ] 22 jun / Terça;
         - Aula 03 – In Orbit;
     - [ ] 23 jun / Quarta;
