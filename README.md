@@ -11,8 +11,8 @@
         ✔ Aula 01 – Liftoff;
     - [✔] 21 jun / Segunda;
         ✔ Aula 02 – Maximum Speed;
-    - [ ] 22 jun / Terça;
-        - Aula 03 – In Orbit;
+    - [✔] 22 jun / Terça;
+        ✔ Aula 03 – In Orbit;
     - [ ] 23 jun / Quarta;
         - Aula 04 – Landing;
     - [ ] 24 jun / Quinta;
